@@ -2,6 +2,13 @@
 
 <p>Program ini digunakan dalam situasi di mana perlu mengenkripsi teks menjadi bentuk base64 atau mendekode teks yang sudah dienkripsi dengan base64 menjadi bentuk aslinya.</p>
 
+# Support
+Linux
+
+Windows
+
+Termux
+
 # Setup
 ```
 apt update
